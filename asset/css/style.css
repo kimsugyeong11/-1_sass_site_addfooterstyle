@@ -372,6 +372,10 @@ table td {
   border-top: 1px solid #b8944d;
 }
 
+.subpage main .container .inner.kakaomap {
+  margin-top: 20px;
+}
+
 .subpage main .container .inner table {
   margin-top: 50px;
 }
